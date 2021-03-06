@@ -1,0 +1,19 @@
+body {
+	background: #4A4A4A;
+	color: #EBEBEB;
+	padding: 0px;
+	font-family: 'Comic Sans', Sans, monospace;
+	font-size: 30px;
+}
+
+.main_div {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.loggedin_div {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
